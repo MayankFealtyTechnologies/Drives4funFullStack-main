@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.970c3535.css",
+    "main.js": "/static/js/main.94dadfea.js",
+    "static/js/496.7285a552.chunk.js": "/static/js/496.7285a552.chunk.js",
+    "static/media/video.mp4": "/static/media/video.500fb54264974461fcb3.mp4",
+    "static/media/brezza.jpeg": "/static/media/brezza.c309f619fd8a6f1ae68b.jpeg",
+    "static/media/fronx.jpeg": "/static/media/fronx.b36ac82aad84457a834d.jpeg",
+    "static/media/banner-image-1-1920x500.jpg": "/static/media/banner-image-1-1920x500.4349b3f222f5c0977cd7.jpg",
+    "static/media/grandi10nios.jpeg": "/static/media/grandi10nios.8058f025358e4a105fd6.jpeg",
+    "static/media/about-fullscreen-1-1920x700.jpg": "/static/media/about-fullscreen-1-1920x700.f607ad43946b721fb547.jpg",
+    "static/media/creta.jpeg": "/static/media/creta.2a8ce7fe0a2b5ab53de9.jpeg",
+    "static/media/exter.jpeg": "/static/media/exter.2f854ed17b341103e264.jpeg",
+    "static/media/logo.png": "/static/media/logo.3fc33d907cc83c41d305.png",
+    "static/media/aboutus.jpg": "/static/media/aboutus.e71370bc5f8e1ba716c4.jpg",
+    "static/media/Baleno.jpeg": "/static/media/Baleno.21869f0507d274599a4b.jpeg",
+    "static/media/Elitei20.jpeg": "/static/media/Elitei20.987b20a7abef73c58bcd.jpeg",
+    "static/media/contact.png": "/static/media/contact.b3e644aadf0db23f6e3f.png",
+    "index.html": "/index.html",
+    "main.970c3535.css.map": "/static/css/main.970c3535.css.map",
+    "main.94dadfea.js.map": "/static/js/main.94dadfea.js.map",
+    "496.7285a552.chunk.js.map": "/static/js/496.7285a552.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.970c3535.css",
+    "static/js/main.94dadfea.js"
+  ]
+}

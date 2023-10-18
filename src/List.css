@@ -1,0 +1,21 @@
+.custom-header {
+    background-color: #FFD936;
+}
+/* .css-axafay-MuiDataGrid-virtualScroller{
+    overflow-x: scroll !important;
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+} */
+
+::-webkit-scrollbar{
+    height: 4px;
+    width: 4px;
+    background: gray;
+}
+::-webkit-scrollbar-thumb:horizontal{
+    background: white;
+    border-radius: 10px;
+}
+.restrict{
+    cursor: no-drop;
+}
